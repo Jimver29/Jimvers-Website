@@ -1,0 +1,14 @@
+nav{
+			padding: 20px;
+      border: 1px;
+      text-align: right;
+      right: 200px;}
+
+.menu{
+  padding: 30px;
+  font-size: 20px;
+  position: relative;
+  right: 100px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
